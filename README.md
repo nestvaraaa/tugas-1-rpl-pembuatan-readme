@@ -1,40 +1,62 @@
-👋 Halo, saya [Nama Kamu!
-💻 Programmer | Web Developer | Tech Enthusiast
+<div align="center">
 
-Selamat datang di profil GitHub saya! Saya adalah seorang programmer yang tertarik dengan dunia teknologi, pengembangan software, dan pembuatan aplikasi yang bermanfaat.
+# 💻 Programmer & Developer
 
-Saat ini, saya terus belajar dan mengembangkan kemampuan dalam menulis kode, membangun proyek, serta mengeksplorasi teknologi baru.
+*Turning ideas into code.*
 
-🚀 Tentang Saya
-👨‍💻 Nama: [Nama Kamu]
-🌱 Sedang belajar: Web Development dan Software Engineering
-💡 Tertarik pada: Frontend, Backend, dan pengembangan aplikasi
-🎯 Tujuan: Menjadi programmer yang terus berkembang dan menciptakan solusi digital
-📍 Lokasi: Indonesia
-🛠️ Tech Stack
-Teknologi dan tools yang saya gunakan:
+Building, learning, and exploring the world of technology.
 
-Languages: HTML, CSS, JavaScript, Python
-Frameworks: React.js, Node.js
-Database: MySQL, PostgreSQL
-Tools: Git, GitHub, VS Code
-📂 Proyek Saya
-Beberapa proyek yang sedang atau pernah saya kerjakan:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/)
 
-🔹 Personal Portfolio — Website untuk menampilkan profil dan proyek saya.
-🔹 To-Do List App — Aplikasi sederhana untuk mengelola tugas harian.
-🔹 Web Application — Proyek pengembangan aplikasi berbasis web.
-Lihat repositori saya untuk mengetahui proyek lainnya!
+</div>
 
-📊 Tujuan Saya
-📚 Terus mempelajari teknologi dan bahasa pemrograman baru.
-🧩 Meningkatkan kemampuan problem solving.
-🤝 Berkolaborasi dalam proyek open-source.
-🚀 Membangun proyek yang bermanfaat bagi banyak orang.
-📫 Hubungi Saya
-GitHub: github.com/username
-LinkedIn: Profil LinkedIn Kamu
-Email: emailkamu@example.com
-⭐ Terima kasih sudah mengunjungi profil saya!
+---
 
-"Keep learning, keep coding, and keep building." 🚀
+## `$ whoami`
+
+```bash
+> Programmer
+> Tech enthusiast
+> Lifelong learner
+
+
+I'm passionate about technology, software development, and building things that solve real problems.
+
+🌱 Currently learning and exploring new technologies.
+💡 Interested in software engineering and web development.
+🎯 Focused on improving my coding skills.
+⚡ Believe in learning by building.
+$ tech_stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+</p>
+
+$ github_stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+$ current_focus
+Learning       ███████░░░  70%
+Building       ██████░░░░  60%
+Improving      ████████░░  80%
+
+$ connect
+GitHub: Explore my repositories
+Email: your.email@example.com
+
+<div align="center">
+
+"First, solve the problem. Then, write the code."
+
+Thanks for stopping by!
+
+</div>
+```
